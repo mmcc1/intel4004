@@ -6,3 +6,5 @@ This emulator is a work in progress.  A large percentage of it is complete, incl
 Check back here over the next few weeks as I bring it up to a functional state.
 
 Oh, I gave it an AppStore...and self-documenting code possibilities.
+
+License: BSD https://opensource.org/licenses/BSD-3-Clause
